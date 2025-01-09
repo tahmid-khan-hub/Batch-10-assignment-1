@@ -1,0 +1,65 @@
+*{
+    margin: 1px;
+    padding: 0px;
+}
+
+/* styles the top */
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+}
+.navbar .name-bar{
+    margin-top: 50px;
+    margin-right: 850px;
+}
+.name-bar h3{
+    font-size: xx-large;
+}
+.resume-button{
+    margin-top: 40px;
+}
+Button{
+    padding: 11px 22px 11px 22px;
+    border-radius: 5px;
+    background-color: white;
+    border: 1px solid rgb(13, 19, 33);
+    color: rgb(65, 69, 70);
+    font-weight: 600;
+}
+
+/* header bg style */
+.first-div{
+    background-image: url('../B10A1-Challenge-Begins-main/assets/Hero-bg.png');
+    margin-top: 36px;
+    padding-bottom: 25px;
+    text-align: center;
+}
+.header-content{
+    text-align: center;
+}
+.image-div{
+    padding: 20px 0px 32px 0px;
+}
+.heading-div{
+    margin-bottom: 24px;
+}
+
+.heading{
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 68px;
+    word-spacing: 10px;
+    
+}
+
+.paragraph{
+    word-spacing: 4px;
+    color: rgb(95, 97, 98);
+    margin-bottom: 32px;
+}
+
+.header-button{
+    color: white;
+    background-color: black;
+}
