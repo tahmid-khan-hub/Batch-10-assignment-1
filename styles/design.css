@@ -34,6 +34,7 @@ Button{
     margin-top: 36px;
     padding-bottom: 25px;
     text-align: center;
+    margin-bottom: 74px;
 }
 .header-content{
     text-align: center;
@@ -62,4 +63,38 @@ Button{
 .header-button{
     color: white;
     background-color: black;
+}
+
+/* main section styles */
+main{
+    margin: 0px 150px 0px 150px;
+    /* background: rgba(13, 19, 33, 0.02); */
+}
+.first-content{
+    text-align: center;
+    background: rgba(13, 19, 33, 0.02);
+    padding: 70px 97px 70px 97px;
+}
+.head1{
+    /* margin: 24px 0px; */
+    font-size: 32px;
+    font-weight: 800;
+    margin-bottom: 24px;
+}
+.paragraph1{
+    margin-bottom: 48px;
+    color: rgb(95, 97, 98);
+
+}
+.content2{
+    display: flex;
+    border: 1px solid black;
+    padding: 48px;
+    background-color: white;
+}
+.description2{
+    text-align: left;
+}
+.description2 h3{
+    
 }
